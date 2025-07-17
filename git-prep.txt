@@ -1,0 +1,46 @@
+1. What are the different states a file can be in Git?
+Answer - (Untracked, Modified, Staged, Committed)
+
+2. What is the purpose of git commit?
+Answer - Saves the staged changes to the repository history with a commit message.
+
+3. What is a merge conflict?
+Answer - Occurs when Git cannot automatically resolve differences between two branches.
+
+4. Difference between git merge and git rebase?
+Answer - Merge creates a new commit combining branches and Rebase moves or "replays" commits to a new base.
+
+5. What is a fast-forward merge?
+Answer - A merge where the target branch is directly updated to the tip of the source branch.
+
+6. How do you delete a branch?
+Answer -    Local: git branch -d <branch-name>
+            Remote: git push origin --delete <branch-name>
+
+7. Difference between git fetch and git pull?
+Answer - Fetch downloads changes without merging and Pull downloads and merges changes.
+
+8. How do you undo the last commit?
+Answer - 
+          Keep changes: git reset --soft HEAD~1
+          Discard changes: git reset --hard HEAD~1
+
+9. How do you stash changes?
+Answer -    Save changes: git stash
+            Apply stash: git stash apply or git stash pop
+
+10. What are Git Hooks?
+Answer - Scripts that run automatically on specific Git events like pre-commit, pre-push, etc.
+
+11. How do you prevent sensitive data from being committed?
+Answer -    Use .gitignore
+            Use git-secrets
+            Environment variables
+
+12. How do you handle secrets in Git repositories?
+Answer:   Never commit secrets.
+          Use .gitignore for sensitive files.
+          Integrate tools like:
+                  git-secrets
+                  Gitleaks
+          Use environment variables or secret management tools (e.g., HashiCorp Vault, AWS Secrets Manager).
