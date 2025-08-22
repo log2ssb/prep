@@ -1,0 +1,17 @@
+Hi, my name is [Your Name], and I have close to 10 years of experience in the IT industry, primarily in DevOps, Azure Cloud, and Infrastructure Automation. Over the years, I’ve worked across diverse domains including banking, telecom, BFSI, and oil & gas, and have also completed 2+ years of onsite assignments in client-facing roles.
+
+My core expertise lies in building and managing end-to-end CI/CD pipelines using Azure DevOps for applications developed in .NET, Angular, Java, SQL, and automation testing frameworks. I’ve integrated tools like SonarCloud, Fortify, Veracode for security and code quality checks, and implemented GitFlow and trunk-based branching strategies to streamline collaboration.
+
+I’m experienced with Azure IaaS and PaaS services, and regularly use Terraform for infrastructure as code and Ansible for server configuration and deployment automation. I’ve led the DevOps efforts for enterprise-level applications, ensuring scalability, security, and performance across environments.
+
+Currently, I work as a DevOps Lead at Hexaware Technologies, where I not only handle technical responsibilities but also guide a team, assign daily tasks, and ensure timely delivery. I’ve conducted trainings on Azure DevOps, Ansible, and Git, and I’m actively involved in SoX compliance and IT Risk Management (ITRMP) to ensure our projects meet audit and governance standards.
+
+I hold certifications including:
+
+Microsoft Certified: Azure Fundamentals
+
+Azure Administrator Associate
+
+DevOps Engineer Expert
+
+I’m passionate about automation, cloud adoption, and fostering DevOps best practices across teams. I look forward to contributing my skills to challenging projects that drive real impact.
