@@ -1,0 +1,31 @@
+Detailed Self-Introduction
+
+Hi, my name is [Your Name], and I bring close to 10 years of industry experience in the areas of DevOps, Azure Cloud, Infrastructure Automation, and Software Configuration Management, with over 2 years of onsite experience in client-facing roles. I have a strong track record of delivering end-to-end DevOps solutions, driving process automation, and leading cross-functional teams in Agile environments.
+
+Currently, I’m working as a DevOps Lead at Hexaware Technologies, where I lead DevOps initiatives for enterprise-scale projects, especially in the BFSI and Telecom domains. I’m responsible for architecting and maintaining CI/CD pipelines in Azure DevOps for full-stack applications (.NET, Angular, Java, SQL, Automation Testing), implementing GitFlow and trunk-based branching strategies, and integrating DevSecOps tools like Veracode, Fortify on Demand, and SonarCloud.
+
+I have extensive hands-on experience with Microsoft Azure, including services such as Azure VMs, App Services, Application Gateway, Azure SQL MI, Key Vault, Azure Monitor, and more. I regularly use Terraform to provision infrastructure as code and have implemented Ansible playbooks for server configuration and application deployments across multi-node environments. Additionally, I’ve worked on 3-tier application deployments involving both IaaS and PaaS services.
+
+Beyond the technical aspects, I also play a key leadership role:
+
+I handle a team, guide them in day-to-day DevOps operations, assign tasks, and ensure smooth project execution.
+
+I’ve actively conducted internal trainings for team members and stakeholders on Azure DevOps, Ansible, Git branching strategies, and overall DevOps best practices.
+
+I take part in Agile ceremonies such as sprint planning, backlog grooming, retrospectives, and ensure all work is traceable via Azure Boards and Confluence.
+
+I’ve also been part of the SoX and Compliance team, where I was responsible for managing ITRMP (IT Risk Management Plan) for the project. I ensured that all processes, access controls, and deployment practices were audit-ready and compliant with enterprise-level security standards.
+
+In my previous roles at Vodafone (_VOIS), Cognizant, and KPIT, I contributed to cloud migration strategies, built reusable CI/CD frameworks, and handled large infrastructure footprints across Azure and VMware-based private cloud environments. I also supported legacy systems by modernizing their deployment pipelines and integrating security testing at every stage of development.
+
+I hold the following certifications:
+
+Microsoft Certified: Azure Fundamentals
+
+Microsoft Certified: Azure Administrator Associate
+
+Microsoft Certified: DevOps Engineer Expert
+
+I’m passionate about enabling teams through automation, delivering secure and scalable infrastructure, and driving continuous improvement through DevOps culture and tooling. I look forward to roles where I can further leverage my expertise in cloud and DevOps, contribute to strategic decisions, and mentor others in the journey.
+
+Thank you!
